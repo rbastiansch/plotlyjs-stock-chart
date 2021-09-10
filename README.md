@@ -1,4 +1,4 @@
-# syrup-tech
+# stock-chart
 
 ## Build Setup
 
